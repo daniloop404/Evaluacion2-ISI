@@ -1,0 +1,4 @@
+selenium
+jupyter
+beautifulsoup4
+requests
